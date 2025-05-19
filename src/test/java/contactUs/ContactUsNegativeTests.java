@@ -11,6 +11,7 @@ import pages.ContactUsPage;
  * Então o sistema deveria exibir uma mensagem de erro de e-mail inválido
  * MAS atualmente permite o envio da mensagem como se fosse válida.
  */
+
 public class ContactUsNegativeTests {
 
     public static void main(String[] args) {
